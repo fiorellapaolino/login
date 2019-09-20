@@ -1,0 +1,36 @@
+.background {
+    background-color: #76b852;
+}
+
+
+.content-box {
+    box-sizing: content-box;
+    width: 270px;
+    padding: 45px;
+    background: white;
+} 
+
+.email {
+    width: 100%;
+    padding: 15px;
+    height: 45px;
+    background: #f2f2f2;
+    box-sizing: border-box;
+
+}
+.password {
+    width: 100%;
+    padding: 15px;
+    height: 45px;
+    background: #f2f2f2;
+    box-sizing: border-box;
+}
+
+.LOGIN {
+    width: 100%;
+    padding: 15px;
+    height: 45px;
+    background: #4CAF50;
+    box-sizing: border-box;
+}
+
